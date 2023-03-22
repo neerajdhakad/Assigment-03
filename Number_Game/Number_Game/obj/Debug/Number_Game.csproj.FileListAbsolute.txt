@@ -1,0 +1,7 @@
+C:\Users\nitesh01\source\repos\Number_Game\Number_Game\bin\Debug\Number_Game.exe.config
+C:\Users\nitesh01\source\repos\Number_Game\Number_Game\bin\Debug\Number_Game.exe
+C:\Users\nitesh01\source\repos\Number_Game\Number_Game\bin\Debug\Number_Game.pdb
+C:\Users\nitesh01\source\repos\Number_Game\Number_Game\obj\Debug\Number_Game.csproj.AssemblyReference.cache
+C:\Users\nitesh01\source\repos\Number_Game\Number_Game\obj\Debug\Number_Game.csproj.CoreCompileInputs.cache
+C:\Users\nitesh01\source\repos\Number_Game\Number_Game\obj\Debug\Number_Game.exe
+C:\Users\nitesh01\source\repos\Number_Game\Number_Game\obj\Debug\Number_Game.pdb
