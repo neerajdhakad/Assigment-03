@@ -1,0 +1,7 @@
+C:\Users\nitesh01\source\repos\Filedirectory\Filedirectory\bin\Debug\Filedirectory.exe.config
+C:\Users\nitesh01\source\repos\Filedirectory\Filedirectory\bin\Debug\Filedirectory.exe
+C:\Users\nitesh01\source\repos\Filedirectory\Filedirectory\bin\Debug\Filedirectory.pdb
+C:\Users\nitesh01\source\repos\Filedirectory\Filedirectory\obj\Debug\Filedirectory.csproj.AssemblyReference.cache
+C:\Users\nitesh01\source\repos\Filedirectory\Filedirectory\obj\Debug\Filedirectory.csproj.CoreCompileInputs.cache
+C:\Users\nitesh01\source\repos\Filedirectory\Filedirectory\obj\Debug\Filedirectory.exe
+C:\Users\nitesh01\source\repos\Filedirectory\Filedirectory\obj\Debug\Filedirectory.pdb
