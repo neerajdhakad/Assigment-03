@@ -1,0 +1,14 @@
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\bin\Debug\netcoreapp3.1\Extension Methods on IEnumerables.exe
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\bin\Debug\netcoreapp3.1\Extension Methods on IEnumerables.deps.json
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\bin\Debug\netcoreapp3.1\Extension Methods on IEnumerables.runtimeconfig.json
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\bin\Debug\netcoreapp3.1\Extension Methods on IEnumerables.runtimeconfig.dev.json
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\bin\Debug\netcoreapp3.1\Extension Methods on IEnumerables.dll
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\bin\Debug\netcoreapp3.1\Extension Methods on IEnumerables.pdb
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\obj\Debug\netcoreapp3.1\Extension Methods on IEnumerables.csproj.AssemblyReference.cache
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\obj\Debug\netcoreapp3.1\Extension Methods on IEnumerables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\obj\Debug\netcoreapp3.1\Extension Methods on IEnumerables.AssemblyInfoInputs.cache
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\obj\Debug\netcoreapp3.1\Extension Methods on IEnumerables.AssemblyInfo.cs
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\obj\Debug\netcoreapp3.1\Extension Methods on IEnumerables.csproj.CoreCompileInputs.cache
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\obj\Debug\netcoreapp3.1\Extension Methods on IEnumerables.dll
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\obj\Debug\netcoreapp3.1\Extension Methods on IEnumerables.pdb
+C:\Users\neerajdhakad\source\repos\Extension Methods on IEnumerables\Extension Methods on IEnumerables\obj\Debug\netcoreapp3.1\Extension Methods on IEnumerables.genruntimeconfig.cache
